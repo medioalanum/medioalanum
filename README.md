@@ -1,4 +1,4 @@
-<img src="./banner.jpg" width="100%" alt="Minimalist night illustration of Milan" />
+<img src="./banner-rio.png" width="100%" alt="Night illustration of Rio de Janeiro with Christ the Redeemer, Sugarloaf Mountain, and Botafogo Bay" />
 
 
 ## `product := platform + APIs + integrations`
@@ -63,3 +63,7 @@
   <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-7B3FF2?style=for-the-badge&logo=flydotio&logoColor=white">
   <img alt="Render" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
 </p>
+
+<br>
+
+<img src="./banner.jpg" width="100%" alt="Minimalist night illustration of Milan" />
