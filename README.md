@@ -12,7 +12,6 @@
 - ✍️ Writing about Python, APIs, data, and software engineering at [medioalanum.github.io](https://medioalanum.github.io/).
 - 🎯 Primary interests: platform strategy, API products, developer experience, and integrations.
 - 🌍 Brazil → Italy.
-- 🟢 Open to new opportunities in Italy/Europe.
 - 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/alanviana/).
 
 
