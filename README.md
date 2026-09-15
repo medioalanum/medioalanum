@@ -5,7 +5,7 @@
 
 
 - 🧭 Senior Technical Product Manager focused on platforms, APIs, and integrations.
-- 🏗️ 15+ years across engineering and product in payments, fintech, and healthcare data.
+- 🏗️ 13+ years in Product Management, with a background in software engineering.
 - 🏢 Experience across Pismo (Visa), Stone, Cielo, Grupo Fleury, and Liferay.
 - 🛠️ I work with Python, FastAPI, PostgreSQL, and SQLAlchemy.
 - 📦 Building [Privio](https://github.com/medioalanum/privio_v1): a financial commitment and reserve tracker built with FastAPI, SQLAlchemy, PostgreSQL, and HTMX.
