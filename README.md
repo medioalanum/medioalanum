@@ -8,7 +8,7 @@
 - 🏗️ 13+ years in Product Management, with a background in software engineering.
 - 🏢 Experience across Pismo (Visa), Stone, Cielo, Grupo Fleury, and Liferay.
 - 🛠️ I work with Python, FastAPI, PostgreSQL, and SQLAlchemy.
-- 📦 Building [Privio](https://github.com/medioalanum/privio_v1): a financial commitment and reserve tracker built with FastAPI, SQLAlchemy, PostgreSQL, and HTMX.
+- 📦 Building [Privio](https://github.com/medioalanum/privio): a financial commitment and reserve tracker built with FastAPI, SQLAlchemy, PostgreSQL, and HTMX.
 - ✍️ Writing about Python, APIs, data, and software engineering at [medioalanum.github.io](https://medioalanum.github.io/).
 - 🎯 Primary interests: platform strategy, API products, developer experience, and integrations.
 - 🌍 Brazil → Italy.
