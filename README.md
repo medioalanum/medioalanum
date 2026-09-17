@@ -1,8 +1,10 @@
 <img src="./banner-rio.png" width="100%" alt="Night illustration of Rio de Janeiro with Christ the Redeemer, Sugarloaf Mountain, and Botafogo Bay" />
 
-Hey! I'm **Alan Viana**. 👋
+Hey! I'm [**@medioalanum**](https://github.com/medioalanum) **(Alan Viana)**. 👋
 
 I'm a Senior Technical Product Manager from Brazil. 🇧🇷
+
+I currently live in Italy. 🇮🇹
 
 I'm normally doing things around platforms, APIs, integrations, and data.
 
