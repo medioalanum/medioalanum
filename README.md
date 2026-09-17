@@ -1,15 +1,16 @@
 <img src="./banner-rio.png" width="100%" alt="Night illustration of Rio de Janeiro with Christ the Redeemer, Sugarloaf Mountain, and Botafogo Bay" />
 
-I've spent 13+ years in Product Management, with a background in software engineering.
+Hey! I'm **Alan Viana**. 👋
 
-My experience includes Pismo (Visa), Stone, Cielo, Grupo Fleury, and Liferay.
+I'm a Senior Technical Product Manager from Brazil. 🇧🇷
 
-I work mainly with platforms, APIs, integrations, and developer experience.
+I'm normally doing things around platforms, APIs, integrations, and data.
 
 I'm also building software with Python, with a growing focus on backend systems and data engineering.
 
-I built [Privio](https://github.com/medioalanum/privio), a financial commitment and reserve tracker using FastAPI, SQLAlchemy, PostgreSQL, and HTMX.
+I built [**Privio**](https://github.com/medioalanum/privio), a financial commitment and reserve tracker using FastAPI, SQLAlchemy, PostgreSQL, and HTMX.
 
-I write about Python, APIs, data, and software engineering at [medioalanum.github.io](https://medioalanum.github.io/).
+You can find me on:
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/alanviana/).
+- [My website: medioalanum.github.io](https://medioalanum.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alanviana/)
