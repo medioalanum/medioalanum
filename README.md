@@ -1,6 +1,8 @@
 <img src="./banner-rio.png" width="100%" alt="Night illustration of Rio de Janeiro with Christ the Redeemer, Sugarloaf Mountain, and Botafogo Bay" />
 
-I've spent 13+ years in Product Management, with a background in software engineering. My experience includes Pismo (Visa), Stone, Cielo, Grupo Fleury, and Liferay.
+I've spent 13+ years in Product Management, with a background in software engineering.
+
+My experience includes Pismo (Visa), Stone, Cielo, Grupo Fleury, and Liferay.
 
 I work mainly with platforms, APIs, integrations, and developer experience.
 
