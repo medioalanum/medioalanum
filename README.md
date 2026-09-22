@@ -1,4 +1,4 @@
-<img src="./banner-rio.png" width="100%" alt="Night illustration of Rio de Janeiro with Christ the Redeemer, Sugarloaf Mountain, and Botafogo Bay" />
+<img src="./banner-milan.png" width="100%" alt="Night illustration of Milan with the Duomo, Galleria Vittorio Emanuele II, and modern skyline" />
 
 Hey! I'm [**@medioalanum**](https://github.com/medioalanum) **(Alan Viana)**. 👋
 
