@@ -1,0 +1,12 @@
+<img src="./banner-milan.png" width="100%" alt="Night illustration of Milan with the Duomo, Galleria Vittorio Emanuele II, and modern skyline" />
+
+Hey! I'm [**@medioalanum**](https://github.com/medioalanum) **(Alan Viana)**. 👋
+
+I'm a Senior Technical Product Manager from Brazil. 🇧🇷
+
+I currently live in Italy. 🇮🇹
+
+I'm normally doing things around platforms, APIs, integrations, and data.
+
+I'm also building software with Python, with a growing focus on backend systems and data engineering.
+
